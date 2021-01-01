@@ -6,3 +6,8 @@ Paper: [Unsupervised Representation Learning with Deep Convolutional Generative 
 Code: [dc_gan.ipynb](DCGAN/dc_gan.ipynb) by [Aniket Maurya](http://aniketmaurya.ml)
 
 Authors: Alec Radford, Luke Metz, Soumith Chintala
+
+## To do
+[] Pix2Pix
+[] CycleGAN
+[] SRGAN

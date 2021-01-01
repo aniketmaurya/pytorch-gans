@@ -8,6 +8,6 @@ Code: [dc_gan.ipynb](DCGAN/dc_gan.ipynb) by [Aniket Maurya](http://aniketmaurya.
 Authors: Alec Radford, Luke Metz, Soumith Chintala
 
 ## To do
-[] Pix2Pix
-[] CycleGAN
-[] SRGAN
+- [ ] Pix2Pix
+- [ ] CycleGAN
+- [ ] SRGAN

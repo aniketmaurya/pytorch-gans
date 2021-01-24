@@ -10,6 +10,6 @@
 
 ## To do
 - [x] DCGAN
-- [ ] Pix2Pix
+- [x] Pix2Pix
 - [ ] CycleGAN
 - [ ] SRGAN

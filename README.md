@@ -10,7 +10,6 @@
 - Paper: [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004)
 - Authors: Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, Alexei A. Efros
 - Code (PyTorch): [pix2pix.ipynb](pix2pix/Pix2Pix_pytorch.ipynb) by [Aniket Maurya](http://aniketmaurya.ml)
-- Code (Lightning): [pix2pix.ipynb](pix2pix/Pix2Pix_pytorch.ipynb) by [Aniket Maurya](http://aniketmaurya.ml)
 
 
 

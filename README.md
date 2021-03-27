@@ -16,5 +16,6 @@
 ## To do
 - [x] DCGAN
 - [x] Pix2Pix
+- [ ] StyleGAN
 - [ ] CycleGAN
 - [ ] SRGAN
